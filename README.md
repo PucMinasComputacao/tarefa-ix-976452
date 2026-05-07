@@ -1,14 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/A4gZB-lk)
-# Trabalho Prático - Semana 9
+# Atividade Prática - Funções e Manipulação do DOM
 
-Nesta atividade, você vai montar um programa para praticar funções em JavaScript e a manipulação do DOM, criando uma tela simples no estilo eCommerce que lista produtos em cards a partir de um objeto JSON (array de produtos).
+## Nome
+Maria Luiza Aparecida Trindade de Meneses
 
-Você vai usar métodos e propriedades do document e seus nodos para criar elementos, definir atributos, alterar conteúdo, estilizar e registrar eventos.
+## Descrição
+Projeto desenvolvido para praticar:
+- Manipulação do DOM
+- Eventos
+- Renderização dinâmica
+- Uso de JSON
+- Criação de cards
+- Filtros e detalhes de produtos
 
-A atividade foi pensada para ser concluída em até 1h no laboratório, usando Visual Studio Code e um navegador (DevTools/Console).
+## Funcionalidades
+- Renderização dinâmica de produtos
+- Busca por texto
+- Filtro por categoria
+- Destaque visual nos cards
+- Área de detalhes do produto
 
-## Informações Gerais
-
-- Nome:
-- Matricula:
-
+## Métodos utilizados
+- getElementById
+- querySelector
+- querySelectorAll
+- createElement
+- appendChild
+- classList.add
+- addEventListener
+- innerHTML
